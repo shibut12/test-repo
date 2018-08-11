@@ -1,3 +1,3 @@
 # test-repo
 
-V2.0
+V3.0
